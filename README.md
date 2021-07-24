@@ -1,10 +1,15 @@
 # 실행 예시
-![7 1](https://user-images.githubusercontent.com/87646938/126866582-16a3656b-6311-4dc3-8952-f9e7be4f03a3.jpg)
+![7 1](https://user-images.githubusercontent.com/87646938/126866742-1138e00e-915f-4d35-9bea-44faced45fc1.jpg)
  - 초기 화면
+
 ![7 2](https://user-images.githubusercontent.com/87646938/126866688-00d749e8-82c0-4ed7-b810-52aef21a1829.jpg)
  - 화면을 누르면 지정한 방향으로 밤송이 발사
+
 ![7 3](https://user-images.githubusercontent.com/87646938/126866689-cd7a8a60-79be-4aa0-811b-c843fa3f25fa.jpg)
  - 과녁과 충돌시 파티클이 나타나는 모습
+
+
+
 
 
 # Week5_Unity
