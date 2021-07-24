@@ -1,3 +1,7 @@
+# 실행 예시
+![7 1](https://user-images.githubusercontent.com/87646938/126866582-16a3656b-6311-4dc3-8952-f9e7be4f03a3.jpg)
+
+
 # Week5_Unity
 
 ## Ch.7 3D Game
